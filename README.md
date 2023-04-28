@@ -8,7 +8,7 @@ Highly skilled and motivated Android developer with 3 years of experience in dev
 
 * 🌍  I'm based in Ahmedabad
 * ✉️  You can contact me at [karan.t@digimonksolutions.com](mailto:karan.t@digimonksolutions.com)
-* 🧠  I'm learning I am currently about exciting technologies such as Artificial Intelligence (AI), Machine Learning (ML), and Augmented Reality (AR) in the context of Android development.
+* 🧠  I'm learning about exciting technologies such as Artificial Intelligence (AI), Machine Learning (ML), and Augmented Reality (AR) in the context of Android development.
 * ⚡  I love the challenge of bringing ideas to life.
 
 <a href="https://www.github.com/karan-0603" target="_blank" rel="noreferrer"><img
