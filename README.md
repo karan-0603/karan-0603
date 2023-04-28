@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Android Developer
 -----------------
 
-Highly skilled and motivated Android developer with 4 years of experience in developing and designing Android applications. Proven ability to develop applications with clean, maintainable, and reusable code. Proficient in Java, Kotlin, Android SDK, and Android Studio. Experienced in working with APIs, third-party libraries, and databases. Familiar with Agile development methodologies and experience in working in a fast-paced development environment.
+Highly skilled and motivated Android developer with 3 years of experience in developing and designing Android applications. Proven ability to develop applications with clean, maintainable, and reusable code. Proficient in Java, Kotlin, Android SDK, and Android Studio. Experienced in working with APIs, third-party libraries, and databases. Familiar with Agile development methodologies and experience in working in a fast-paced development environment.
 
 * 🌍  I'm based in Ahmedabad
 * ✉️  You can contact me at [karan.t@digimonksolutions.com](mailto:karan.t@digimonksolutions.com)
